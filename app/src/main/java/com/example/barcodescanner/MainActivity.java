@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity {
                             public void onFailure(@NonNull Exception e) {
                                 // Task failed with an exception
                                 // ...
+
                             }
                         });
 // Or, to specify the formats to recognize:
